@@ -1,0 +1,61 @@
+body {
+    background-image: url('imagens/foto.png');
+    background-position: right top;
+    background-repeat: no-repeat;
+    font-family: Calibri;
+}
+
+.login {
+    width: 50%;
+}
+
+h1 {
+    margin-top: 20%;
+    text-align: center;
+    font-size: 25pt;
+}
+
+input[type = "text"] {
+    margin-left: 30%;
+    width:40%;
+    border: none;
+    margin-top: 3%;
+    
+}
+
+input::placeholder {
+    font-size: large;
+    color: gray;
+    
+    
+}
+
+hr {
+    margin-left: 30%;
+    width: 40%;
+}
+
+
+.entrar {
+    border-color: rgb(135, 16, 190);
+    background-color:rgb(135, 16, 190);
+    width: 40%;
+    margin-left: 30%;
+    height: 35px;
+    border-radius: 4px;
+    margin-top: 5%;
+    color: white;
+    font-size: large;
+    display: block;
+    
+}
+
+.rec {
+    margin-left: 30%;
+    display: block;
+}
+
+input[type="checkbox"] {
+    margin-left:30%;
+    margin-top:3%;
+}
