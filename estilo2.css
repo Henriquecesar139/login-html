@@ -1,0 +1,53 @@
+body {
+    font-family: Calibri;
+    background-color:blueviolet;
+    font-size: large;
+}
+
+.login {
+    margin-top:5%;
+    width:100%;
+    background-color: white;
+    border-radius: 6px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input[type = "text"] {
+    margin-left: 10%;
+    width:80%;
+    border: none;
+    margin-top: 10%;
+}
+
+hr {
+    margin-left: 10%;
+    width: 80%;
+}
+
+.entrar {
+    border-color: rgb(135, 16, 190);
+    background-color:rgb(135, 16, 190);
+    width: 80%;
+    margin-left: 10%;
+    height: 30px;
+    border-radius: 4px;
+    margin-top: 10%;
+    color: white;
+    font-size: large;
+    display: block;
+    
+}
+
+.rec {
+    margin-top: 10%;
+    margin-left: 10%;
+    display: block;
+}
+
+input[type="checkbox"] {
+    margin-left:10%;
+    margin-top:8%;
+}
