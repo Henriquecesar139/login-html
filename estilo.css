@@ -15,13 +15,14 @@ h1 {
     font-size: 25pt;
 }
 
-input[type = "text"] {
+.entrada {
     margin-left: 30%;
     width:40%;
     border: none;
     margin-top: 3%;
     
 }
+
 
 input::placeholder {
     font-size: large;

@@ -15,7 +15,7 @@ h1 {
     text-align: center;
 }
 
-input[type = "text"] {
+.entrada {
     margin-left: 10%;
     width:80%;
     border: none;
