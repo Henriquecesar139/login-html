@@ -1,3 +1,8 @@
+img {
+    width: 0%;
+    height: 0%;
+}
+
 body {
     background-image: url('imagens/foto.png');
     background-position: right top;
@@ -51,10 +56,6 @@ hr {
     
 }
 
-.rec {
-    margin-left: 30%;
-    display: block;
-}
 
 input[type="checkbox"] {
     margin-left:30%;

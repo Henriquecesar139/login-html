@@ -1,15 +1,15 @@
 body {
     font-family: Calibri;
-    background-color:blueviolet;
-    font-size: large;
+
 }
 
-.login {
-    margin-top:5%;
+img {
     width:100%;
-    background-color: white;
-    border-radius: 6px;
+    height:300px;
+    border-radius: 8px;;
 }
+
+
 
 h1 {
     text-align: center;
@@ -20,6 +20,10 @@ h1 {
     width:80%;
     border: none;
     margin-top: 10%;
+}
+
+.entrada::placeholder {
+    text-align: center;
 }
 
 hr {
@@ -41,11 +45,6 @@ hr {
     
 }
 
-.rec {
-    margin-top: 10%;
-    margin-left: 10%;
-    display: block;
-}
 
 input[type="checkbox"] {
     margin-left:10%;
