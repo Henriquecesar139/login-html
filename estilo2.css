@@ -20,6 +20,7 @@ h1 {
     width:80%;
     border: none;
     margin-top: 10%;
+    outline: none;
 }
 
 .entrada::placeholder {
@@ -43,6 +44,11 @@ hr {
     font-size: large;
     display: block;
     
+}
+
+.entrar:hover {
+    background-color:rgb(54, 5, 133)
+ 
 }
 
 

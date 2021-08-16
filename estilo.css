@@ -25,6 +25,7 @@ h1 {
     width:40%;
     border: none;
     margin-top: 3%;
+    outline: none;
     
 }
 
@@ -56,6 +57,10 @@ hr {
     
 }
 
+.entrar:hover {
+    background-color:rgb(54, 5, 133)
+ 
+}
 
 input[type="checkbox"] {
     margin-left:30%;
